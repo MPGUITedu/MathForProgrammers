@@ -1,2 +1,2 @@
-# MathForProgrammers
-Дискретная математика(MathForProgrammers)
+# Page
+
